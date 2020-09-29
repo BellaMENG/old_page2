@@ -12,4 +12,8 @@ I am currently a first year MPhil candidate of HKUST. My program is Data Science
 
 Random things about me
 ======
-I have been living an irresponsible life since this summer and I am gradually realizing that people need to actively fight for things that they treasure. 
+I've been living an irresponsible life until this summer and I'm gradually realizing that I need to actively fight for goals. I am trying my best to rebuild the norm of my lifes. It is a tough process but I am happy that I am realizing it and living the most out of it.
+
+I am direct and I appreciate people being direct to me. If you have any concerns or complaints about the actions I am taking, I am always ready to listen to your comments. Isn't it much simpler when people just being direct and frank?
+
+I am mildly alcholic. It may sounds like stereotype but I am basically into any alchohol that is sweet (Moscato, Mojito, Ice smirnoff... and any sweet white wine). I am very lightweight and will become tipsy after half a beer :)
