@@ -3,8 +3,8 @@ main:
 #   - title: "Publications"
 #     url: /publications/
 
-  - title: "Paper List"
-    url: /paperlist/    
+#   - title: "Paper List"
+#     url: /paperlist/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Papers"
+    url: /paper-list/
     
 #   - title: "Guide"
 #     url: /markdown/
