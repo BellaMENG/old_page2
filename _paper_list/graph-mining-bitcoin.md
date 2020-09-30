@@ -1,6 +1,6 @@
 ---
 title: "Literature Review of Graph Mining on Bitcoin"
-collection: talks
+collection: paper_list
 type: "paper list"
 permalink: /paper_list/graph-mining-bitcoin
 ---
