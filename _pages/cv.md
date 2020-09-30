@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Mathematics (double major), 2016-2020
-* M.Phil. in Data Science and Analytics, 2020-2022 (expected)
+* B.S. in Computer Science and Mathematics (double major), HKUST, 2016-2020
+* M.Phil. in Data Science and Analytics, HKUST (GZ), 2020-2022 (expected)
 
 Work experience
 ======
