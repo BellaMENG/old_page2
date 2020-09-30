@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  paper_list:
+  paperlist:
     output: true
     permalink: /:collection/:path/
 
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _paper_list
+  # _paperlist
   - scope:
       path: ""
-      type: paper_list
+      type: paperlist
     values:
       layout: talk
       author_profile: true
