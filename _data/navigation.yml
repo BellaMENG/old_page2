@@ -4,7 +4,7 @@ main:
 #     url: /publications/
 
   - title: "Paper List"
-    url: /paper_list/    
+    url: /paperlist/    
 
   - title: "Teaching"
     url: /teaching/    
