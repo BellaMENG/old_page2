@@ -1,11 +1,25 @@
+---
+layout: archive
+title: "Papers"
+permalink: /paperlist/
+author_profile: true
+---
+
 ## Bitcoin
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
 [An Analysis of Anonymity in the Bitcoin System](https://arxiv.org/abs/1107.4524)
+
 [A Bayesian approach to identify Bitcoin users](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207000)
+
 [Quantitative Analysis of the Full Bitcoin Transaction Graph](https://eprint.iacr.org/2012/584.pdf)
+
 [Bitcoin Transaction Graph Analysis](https://people.csail.mit.edu/spillai/data/papers/bitcoin-transaction-graph-analysis.pdf)
+
 [Inferring the Interplay of Network Structure and Market Effects in Bitcoin](https://arxiv.org/abs/1412.4042)
+
 [Do the Rich Get Richer? An Empirical Analysis of the Bitcoin Transaction Network](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086197)
+
 [BlockSci: Design and Applications of a Blockchain Analysis Platform](https://arxiv.org/abs/1709.02489)
 
 
