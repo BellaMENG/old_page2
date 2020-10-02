@@ -1,5 +1,5 @@
 ---
-title: 'Random things about me'
+title: 'Oversharing'
 date: 2020-09-30
 permalink: /posts/2020/09/oversharing/
 tags:
