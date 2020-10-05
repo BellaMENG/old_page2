@@ -28,3 +28,5 @@ author_profile: true
 [In-Memory Subgraph Matching: An In-depth Study](https://dl.acm.org/doi/10.1145/3318464.3380581)
 
 [Efficient Subgraph Matching on Billion Node Graphs](https://arxiv.org/abs/1205.6691)
+
+[Taming Verification Hardness: An Efficient Algorithm for Testing Subgraph Isomorphism](https://dl.acm.org/doi/10.14778/1453856.1453899)
