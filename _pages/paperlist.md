@@ -22,7 +22,7 @@ author_profile: true
 
 [BlockSci: Design and Applications of a Blockchain Analysis Platform](https://arxiv.org/abs/1709.02489)
 
-[Oracle-Analyzing Blockchain and Bitcoin Transaction Data as Graph](https://www.youtube.com/watch?v=w8OEVobyhFE)
+[Oracle Presentation: Analyzing Blockchain and Bitcoin Transaction Data as Graph](https://www.youtube.com/watch?v=w8OEVobyhFE)
 
 
 ## Subgraph matching
