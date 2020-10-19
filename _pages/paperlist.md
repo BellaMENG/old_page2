@@ -34,3 +34,11 @@ author_profile: true
 (To read) [Taming Verification Hardness: An Efficient Algorithm for Testing Subgraph Isomorphism](https://dl.acm.org/doi/10.14778/1453856.1453899)
 
 (To read) [Managing and Mining Large Graphs: Systems and Implementations]()
+
+## Graph Clustering
+
+[Introduction of Graph Clustering - Springer](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_348#:~:text=Definition,edge%20weights%20or%20edge%20distances.)
+
+[Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://core.ac.uk/download/pdf/143481278.pdf)
+
+[An Algorithm for Subgraph Isomorphism](https://dl.acm.org/doi/10.1145/321921.321925)
