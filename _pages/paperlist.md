@@ -46,8 +46,8 @@ author_profile: true
 
 ## Series of Research of [Damiano Di Francesco Maesa](https://scholar.google.com/citations?hl=en&user=9u78kdMAAAAJ&view_op=list_works&sortby=pubdate)
 
-[The bow tie structure of the Bitcoin users graph](https://link.springer.com/article/10.1007/s41109-019-0163-y)
-
 2020 - [Leveraging the Users Graph and Trustful Transactions for the Analysis of Bitcoin Price](https://ieeexplore.ieee.org/abstract/document/9138785)
+
+2019 - [The bow tie structure of the Bitcoin users graph](https://link.springer.com/article/10.1007/s41109-019-0163-y)
 
 2018 - [Data Driven Analysis of Bitcoin Properties: Exploiting the Users Graph](https://www.researchgate.net/profile/Damiano_Maesa/publication/320026355_Data-driven_analysis_of_Bitcoin_properties_exploiting_the_users_graph/links/5ac4c4feaca27218eabcb770/Data-driven-analysis-of-Bitcoin-properties-exploiting-the-users-graph.pdf)
