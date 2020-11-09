@@ -24,7 +24,7 @@ author_profile: true
 
 [Oracle Presentation: Analyzing Blockchain and Bitcoin Transaction Data as Graph](https://www.youtube.com/watch?v=w8OEVobyhFE)
 
-
+[An Evaluation of Bitcoin Address Classification based on Transaction History Summarization](https://arxiv.org/abs/1903.07994)
 
 [Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://core.ac.uk/download/pdf/143481278.pdf)
 
