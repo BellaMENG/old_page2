@@ -5,6 +5,11 @@ permalink: /paper-list/
 author_profile: true
 ---
 
+## Dataset
+https://senseable2015-6.mit.edu/bitcoin/
+
+This page contains processed bitcoin data of first 508241 blocks.
+
 ## VLDB
 [Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks](http://www.vldb.org/pvldb/vol12/p1139-wang.pdf)
 
