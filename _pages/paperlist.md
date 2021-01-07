@@ -5,6 +5,9 @@ permalink: /paper-list/
 author_profile: true
 ---
 
+## VLDB
+[Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks](http://www.vldb.org/pvldb/vol12/p1139-wang.pdf)
+
 ## Bitcoin
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
