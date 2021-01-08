@@ -13,6 +13,8 @@ This page contains processed bitcoin data of first 508241 blocks.
 ## VLDB
 [Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks](http://www.vldb.org/pvldb/vol12/p1139-wang.pdf)
 
+[Efficient Algorithms for Densest Subgraph Discovery](http://www.vldb.org/pvldb/vol12/p1719-fang.pdf)
+
 ## Bitcoin
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
