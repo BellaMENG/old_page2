@@ -5,8 +5,11 @@ permalink: /paper-list/
 author_profile: true
 ---
 
+## GitHub Code
+
+
 ## Dataset
-https://senseable2015-6.mit.edu/bitcoin/
+[MIT dataset](https://senseable2015-6.mit.edu/bitcoin/)
 
 This page contains processed bitcoin data of first 508241 blocks.
 
