@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## GitHub Code
-
+MIT Dataset:
+original edge count is: 2536261806
+min_ele is: 0, max_ele is: 4294967295, and number of edges is: 2212173072.
 
 ## Weekly Report
 links here:
