@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## GitHub Code
+[Source Code](https://github.com/BellaMENG/Bitcoin-Blockchain-DataMining)
+
 MIT Dataset:
 original edge count is: 2536261806
 min_ele is: 0, max_ele is: 4294967295, and number of edges is: 2212173072.
@@ -54,11 +56,11 @@ Graph Analytics: [Efficient Algorithms for Densest Subgraph Discovery](http://ww
 
 [In-Memory Subgraph Matching: An In-depth Study](https://dl.acm.org/doi/10.1145/3318464.3380581)
 
-(To read) [Efficient Subgraph Matching on Billion Node Graphs](https://arxiv.org/abs/1205.6691)
+[Efficient Subgraph Matching on Billion Node Graphs](https://arxiv.org/abs/1205.6691)
 
-(To read) [Taming Verification Hardness: An Efficient Algorithm for Testing Subgraph Isomorphism](https://dl.acm.org/doi/10.14778/1453856.1453899)
+[Taming Verification Hardness: An Efficient Algorithm for Testing Subgraph Isomorphism](https://dl.acm.org/doi/10.14778/1453856.1453899)
 
-(To read) [Managing and Mining Large Graphs: Systems and Implementations]()
+[Managing and Mining Large Graphs: Systems and Implementations]()
 
 ## Graph Clustering
 
