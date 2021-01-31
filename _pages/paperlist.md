@@ -11,7 +11,7 @@ author_profile: true
 MIT Dataset:
 
 ## Weekly Report
-links here:
+links here: [Jan 25th - Jan 31st]()
 
 
 ## Dataset
@@ -59,3 +59,15 @@ Graph Analytics: [Efficient Algorithms for Densest Subgraph Discovery](http://ww
 2020 - [Leveraging the Users Graph and Trustful Transactions for the Analysis of Bitcoin Price](https://ieeexplore.ieee.org/abstract/document/9138785)\
 2019 - [The bow tie structure of the Bitcoin users graph](https://link.springer.com/article/10.1007/s41109-019-0163-y)\
 2018 - [Data Driven Analysis of Bitcoin Properties: Exploiting the Users Graph](https://www.researchgate.net/profile/Damiano_Maesa/publication/320026355_Data-driven_analysis_of_Bitcoin_properties_exploiting_the_users_graph/links/5ac4c4feaca27218eabcb770/Data-driven-analysis-of-Bitcoin-properties-exploiting-the-users-graph.pdf)
+
+
+## Weekly Reports
+
+### Jan 25th - Jan 31st
+- Processed the dataset and stored the data into CSR format. [Code](https://github.com/BellaMENG/Bitcoin-Blockchain-DataMining)\
+- Functions to implement: according to the original bitcoin blockchain data, form a adjacency matrix, where each element on the matrix represent an edge between corresponding address i and address j. According to i and j, unique ids for the edges are generated and generate a file that contains timestamp information and transaction amount information of that edge.\
+- Implementing the following algorithms on the graph:\
+https://arxiv.org/pdf/1308.0971.pdf Page 43-45\
+[The unreasonable effectiveness of address clustering](https://arxiv.org/pdf/1605.06369.pdf), 2 heuristics: Common spending and One-time change\
+Implement another datastructure to represent the transaction network of Blockchain and link it to the address transaction network
+
