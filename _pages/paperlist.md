@@ -5,13 +5,13 @@ permalink: /paper-list/
 author_profile: true
 ---
 
-## GitHub Code
-[Source Code](https://github.com/BellaMENG/Bitcoin-Blockchain-DataMining)
-
-MIT Dataset:
 
 ## Weekly Report
-links here: [Jan 25th - Jan 31st]()
+links here: [Jan 25th - Jan 31st](https://github.com/BellaMENG/bellameng.github.io/blob/master/_pages/paperlist.md#jan-25th---jan-31st)
+
+
+## GitHub Code
+[Source Code](https://github.com/BellaMENG/Bitcoin-Blockchain-DataMining)
 
 
 ## Dataset
