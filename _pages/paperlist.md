@@ -72,3 +72,8 @@ https://arxiv.org/pdf/1308.0971.pdf Page 43-45\
 [The unreasonable effectiveness of address clustering](https://arxiv.org/pdf/1605.06369.pdf), 2 heuristics: Common spending and One-time change\
 Implement another datastructure to represent the transaction network of Blockchain and link it to the address transaction network
 
+### Feb 1st - Feb 7th
+- Implemented pagerank algorithm and implementing other clustring algorithm\
+- Collected and preprocessed bitcoin exchange addresses
+- Collected and preprocessed the timestamp data of the edge list
+
