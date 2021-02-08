@@ -76,4 +76,6 @@ Implement another datastructure to represent the transaction network of Blockcha
 - Implemented pagerank algorithm and implementing other clustring algorithm\
 - Collected and preprocessed bitcoin exchange addresses
 - Collected and preprocessed the timestamp data of the edge list
+- Read references: https://people.csail.mit.edu/jshun/graph.shtml#clustering
+- Implementing Algorithms according to this survey paper: [Community detection in graphs](https://arxiv.org/pdf/0906.0612.pdf)
 
