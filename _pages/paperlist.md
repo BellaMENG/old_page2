@@ -41,7 +41,9 @@ Graph Analytics: [Efficient Algorithms for Densest Subgraph Discovery](http://ww
 [BlockSci: Design and Applications of a Blockchain Analysis Platform](https://arxiv.org/abs/1709.02489)\
 [Oracle Presentation: Analyzing Blockchain and Bitcoin Transaction Data as Graph](https://www.youtube.com/watch?v=w8OEVobyhFE)\
 [An Evaluation of Bitcoin Address Classification based on Transaction History Summarization](https://arxiv.org/abs/1903.07994)\
-[Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://core.ac.uk/download/pdf/143481278.pdf)
+[Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://core.ac.uk/download/pdf/143481278.pdf)\
+
+[There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](https://mvasek.com/static/papers/vasekfc15.pdf)
 
 ## Subgraph matching
 
@@ -79,3 +81,6 @@ Implement another datastructure to represent the transaction network of Blockcha
 - Read references: https://people.csail.mit.edu/jshun/graph.shtml#clustering
 - Implementing Algorithms according to this survey paper: [Community detection in graphs](https://arxiv.org/pdf/0906.0612.pdf)
 
+### Feb 8th - Feb 19th
+- Collected the 5k addresses with the largest pagerank values
+- Running statistical results about the 5k addresses on balances, number of transactions and tags/labels
