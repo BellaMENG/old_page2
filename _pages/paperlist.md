@@ -82,6 +82,7 @@ Implement another datastructure to represent the transaction network of Blockcha
 - Implementing Algorithms according to this survey paper: [Community detection in graphs](https://arxiv.org/pdf/0906.0612.pdf)
 
 ### Feb 8th - Feb 19th
+- Paper: [There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](https://mvasek.com/static/papers/vasekfc15.pdf)
 - Collected the 5k addresses with the largest pagerank values
 - Running statistical results about the 5k addresses on balances, number of transactions and tags/labels
 ![balances plot](../images/5k_balances_plot.png)
