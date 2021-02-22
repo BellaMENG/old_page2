@@ -84,5 +84,5 @@ Implement another datastructure to represent the transaction network of Blockcha
 ### Feb 8th - Feb 19th
 - Collected the 5k addresses with the largest pagerank values
 - Running statistical results about the 5k addresses on balances, number of transactions and tags/labels
-![balances_plot](images/5k_balances_plot.png)
-![number of transactions plot](images/5k_ntxes_plot.png)
+![balances plot](../images/5k_balances_plot.png)
+![number of transactions plot](../images/5k_ntxes_plot.png)
