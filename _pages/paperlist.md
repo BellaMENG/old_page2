@@ -95,3 +95,6 @@ Number of unique clusters among the 5k addresses (according to the UTXO and othe
 Number of clusters in the blockchain that contains 508241 blocks is 278534077.\
 Number of addresses in PageRank output: 370269747\
 Number of addresses in the blockchain: 426868262
+
+
+- To do: get the most active user in the graph network and extract the condensed network
