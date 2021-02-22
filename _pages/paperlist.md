@@ -86,3 +86,6 @@ Implement another datastructure to represent the transaction network of Blockcha
 - Running statistical results about the 5k addresses on balances, number of transactions and tags/labels
 ![balances plot](../images/5k_balances_plot.png)
 ![number of transactions plot](../images/5k_ntxes_plot.png)
+
+According to the walletexplorer tag packs, 30 out of 5000 selected addresses has tags:
+{"gambling": 10, "exchange": 13, "service": 4, "scam": 1, "miner": 1, "market": 1}
