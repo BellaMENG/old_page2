@@ -89,3 +89,8 @@ Implement another datastructure to represent the transaction network of Blockcha
 
 According to the walletexplorer tag packs, 30 out of 5000 selected addresses has tags:
 {"gambling": 10, "exchange": 13, "service": 4, "scam": 1, "miner": 1, "market": 1}
+
+Number of unique clusters among the 5k addresses (according to the UTXO and other heuristics) is 2441.\
+Number of clusters in the blockchain that contains 508241 blocks is 278534077.\
+Number of addresses in PageRank output: 370269747\
+Number of addresses in the blockchain: 426868262
