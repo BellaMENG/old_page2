@@ -42,7 +42,6 @@ Graph Analytics: [Efficient Algorithms for Densest Subgraph Discovery](http://ww
 [Oracle Presentation: Analyzing Blockchain and Bitcoin Transaction Data as Graph](https://www.youtube.com/watch?v=w8OEVobyhFE)\
 [An Evaluation of Bitcoin Address Classification based on Transaction History Summarization](https://arxiv.org/abs/1903.07994)\
 [Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://core.ac.uk/download/pdf/143481278.pdf)\
-
 [There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](https://mvasek.com/static/papers/vasekfc15.pdf)
 
 ## Subgraph matching
@@ -55,7 +54,8 @@ Graph Analytics: [Efficient Algorithms for Densest Subgraph Discovery](http://ww
 ## Graph Clustering
 
 [Introduction of Graph Clustering - Springer](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_348#:~:text=Definition,edge%20weights%20or%20edge%20distances.)\
-[An Algorithm for Subgraph Isomorphism](https://dl.acm.org/doi/10.1145/321921.321925)
+[An Algorithm for Subgraph Isomorphism](https://dl.acm.org/doi/10.1145/321921.321925)\
+[Clustering and Community Detection in Directed Networks: A Survey](https://arxiv.org/pdf/1308.0971.pdf)
 
 ## Series of Research of [Damiano Di Francesco Maesa](https://scholar.google.com/citations?hl=en&user=9u78kdMAAAAJ&view_op=list_works&sortby=pubdate)
 
