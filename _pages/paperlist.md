@@ -98,3 +98,5 @@ Number of addresses in the blockchain: 426868262
 
 
 - To do: get the most active user in the graph network and extract the condensed network
+- Figure out what are the basic concepts/gists behind different clustering methods on directed graphs and how to apply them
+- How to make sense of the weighted graph
