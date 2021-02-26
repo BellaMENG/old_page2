@@ -42,7 +42,8 @@ Graph Analytics: [Efficient Algorithms for Densest Subgraph Discovery](http://ww
 [Oracle Presentation: Analyzing Blockchain and Bitcoin Transaction Data as Graph](https://www.youtube.com/watch?v=w8OEVobyhFE)\
 [An Evaluation of Bitcoin Address Classification based on Transaction History Summarization](https://arxiv.org/abs/1903.07994)\
 [Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://core.ac.uk/download/pdf/143481278.pdf)\
-[There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](https://mvasek.com/static/papers/vasekfc15.pdf)
+[There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](https://mvasek.com/static/papers/vasekfc15.pdf)\
+[When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies](https://arxiv.org/pdf/1708.04748.pdf)
 
 ## Subgraph matching
 
