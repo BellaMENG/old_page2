@@ -97,6 +97,31 @@ Number of clusters in the blockchain that contains 508241 blocks is 278534077.\
 Number of addresses in PageRank output: 370269747\
 Number of addresses in the blockchain: 426868262
 
+### Feb 22nd - Feb 26th
+Read some paper regarding different clustering algorithms and Bitcoin heuristics and clustering.
+
+[Analysis of the Bitcoin blockchain: socio-economic factors behind the adoption](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0170-8)\
+This paper is more social science focused. It analysed the correlation between geographical information and the adoption of Bitcoin in thoses locations. The methodology they utilized was to track the IP addresses by joining the Bitcoin network. They then matched the IP addresses to countries. This paper presented some interesting results including the adoption rate in some countries, the scale of transactions in different countries, and other interesting results.
+
+[Mining Information on Bitcoin Network Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8276874)\
+This paper simply summarized the number of bitcoin transactions per block, trends transaction amount and some other general easily obtained information about the Bitcoin network. In addition, the researchers also collected IP addresses information by participating into the P2P Bitcoin network.
+
+I revisited some paper including the original Bitcoin paper, BlockSci paper, and several papers explaining and investigating Bitcoin heuristics.
+
+[A Fistful of Bitcoins: Characterizing Payments Among fMen with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)\
+In this paper, the two heuristics were formally defined and implemented: 1) all addresses that appeared in the same transaction as inputs are controled by the same entity; and 2) the change addresses that exist in output of transactions also belong to the same entity as the inputs of the transactions.
+
+[When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies](https://arxiv.org/abs/1708.04748)\
+
+A few papers that tracked the network data by joining the bitcoin network as a p2p node:
+
+
+https://arxiv.org/pdf/1308.0971.pdf: \
+This is a summary of clustering and community detection algorithms in directed graphs.
+Broadly speaking, there are two trends to clustering directed graphs: either we convert the graphs to undirected graphs, or we cluster them as directed graphs. For the Bitcoin transaction graph, it is possible that we can still get good clustering result even if we do not consider the direction of transactions. Because for example, if we are considering bitcoin addresses belong to the same Bitcoin Exchange, their coins always transfer within a short time period to another address after they collected it (to protect privacy and their money collected, according to my understanding).
+
+Or we can treat the graphs as directed graphs. There are several types of clustering methods, including spectral clustering, cut-based and random-walk based method. For the cut-based method, a Laplacian matrix for directed graphs were proposed and usually used for the previously mentioned purpose.
+
 
 - To do: get the most active user in the graph network and extract the condensed network
 - Figure out what are the basic concepts/gists behind different clustering methods on directed graphs and how to apply them
