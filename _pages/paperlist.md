@@ -112,8 +112,11 @@ I revisited some paper including the original Bitcoin paper, BlockSci paper, and
 In this paper, the two heuristics were formally defined and implemented: 1) all addresses that appeared in the same transaction as inputs are controled by the same entity; and 2) the change addresses that exist in output of transactions also belong to the same entity as the inputs of the transactions.
 
 [When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies](https://arxiv.org/abs/1708.04748)\
+To read in detail. In this paper, it mentioned how to detect CoinJoin transactions, which are transactions that will not follow the previously mentioned heuristics. It also investigated in other privacy-related issues with some merchants that take Bitcoin as a payment method.
 
-A few papers that tracked the network data by joining the bitcoin network as a p2p node:
+In the BlockSci paper, it mentioned that we could used spectral clustering techniques to improve the imperfection because of the inherent feature of heuristics and anonymity of Bitcoin.
+
+[On spectral clustering: Analysis and an algorithm](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.1501)
 
 
 https://arxiv.org/pdf/1308.0971.pdf: \
@@ -122,7 +125,10 @@ Broadly speaking, there are two trends to clustering directed graphs: either we 
 
 Or we can treat the graphs as directed graphs. There are several types of clustering methods, including spectral clustering, cut-based and random-walk based method. For the cut-based method, a Laplacian matrix for directed graphs were proposed and usually used for the previously mentioned purpose.
 
+[Laplacians and the Cheeger Inequality for Directed Graphs](https://link.springer.com/article/10.1007/s00026-005-0237-z)\
+[A Random Walks View of Spectral Segmentation (2001)](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.1501)
 
+- A few papers tracked the network data by joining the bitcoin network as a p2p node. They can then collect IP addresses and map the IP addresses to geo-locations
 - To do: get the most active user in the graph network and extract the condensed network
 - Figure out what are the basic concepts/gists behind different clustering methods on directed graphs and how to apply them
 - How to make sense of the weighted graph
