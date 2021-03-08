@@ -108,7 +108,7 @@ This paper simply summarized the number of bitcoin transactions per block, trend
 
 I revisited some paper including the original Bitcoin paper, BlockSci paper, and several papers explaining and investigating Bitcoin heuristics.
 
-[A Fistful of Bitcoins: Characterizing Payments Among fMen with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)\
+[A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)\
 In this paper, the two heuristics were formally defined and implemented: 1) all addresses that appeared in the same transaction as inputs are controled by the same entity; and 2) the change addresses that exist in output of transactions also belong to the same entity as the inputs of the transactions.
 
 [When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies](https://arxiv.org/abs/1708.04748)\
