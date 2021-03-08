@@ -94,7 +94,7 @@ According to the walletexplorer tag packs, 30 out of 5000 selected addresses has
 
 Number of unique clusters among the 5k addresses (according to the UTXO and other heuristics) is 2441.\
 Number of clusters in the blockchain that contains 508241 blocks is 278534077.\
-Number of addresses in PageRank output: 370269747\
+Number of addresses in PageRank output: 370269747.\
 Number of addresses in the blockchain: 426868262
 
 ### Feb 22nd - Feb 26th
@@ -132,3 +132,21 @@ Or we can treat the graphs as directed graphs. There are several types of cluste
 - To do: get the most active user in the graph network and extract the condensed network
 - Figure out what are the basic concepts/gists behind different clustering methods on directed graphs and how to apply them
 - How to make sense of the weighted graph
+
+
+[Deanonymizing Bitcoin Transactions: an Investigative Study on Large-scale Graph Clustering](https://yashpatel5400.github.io/files/deanonymization.pdf)\
+- In this thesis paper, it mentioned several clustering models that can be used to Bitcoin transaction graph to cluster, including k-means, spectral clustering, and DBSCAN.
+- The problem with the results shown are the following: first, the dataset was relatively old and it didn't specifically mention the scope of its data. According to the code he published GitHub, he used Blocksci tool to obtain and parse the data, which I assume should be up to 2017. Secondly, he mentioned eight heuristics   of clustering Bitcoin addresses, but when applying the clustering algorithms, he didn't utilize any of the heuristics mentioned, but purely applied the algorithms without alternations. Thirdly, all of the clustering methods were evaluated mostly according to the objective scores, which are purity, NMI and F-score
+- Ways to improve some of the algorithms is that to incorporate some of Bitcoin's inherent natures to serve as distance or other parameters in the algorithms. At the same time, now we have more ground truth variables, it may help improve the clustering results.
+
+[Deanonymization and linkability of cryptocurrency transactions based on network analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806723)
+[Deanonymisation of clients in Bitcoin P2P network](https://arxiv.org/pdf/1405.7418.pdf)
+- Both of them mentioned how to trace entry nodes of transactions by tracing the IP address. The first paper mentioned to use a heuristic or intuition that, if a node relays a transaction to the experiment node quickly, it is likely to be the entry node. (My understanding: entry nodes do not need to verify the transaction)
+
+[On spectral clustering: analysis and an algorithm](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) 2001\
+- a detailed Mathematical paper about spectral clustering algorithm.
+
+TODO:
+- bibliography
+- Extract ground truth tags using Blocksci and process the data to desired format
+- Implement algorithms: k-means, spectral clustering and DBSCAN
