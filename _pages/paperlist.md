@@ -150,3 +150,5 @@ TODO:
 - bibliography
 - Extract ground truth tags using Blocksci and process the data to desired format
 - Implement algorithms: k-means, spectral clustering and DBSCAN
+- If we do k-means, what should the k be??
+- state-of-art methods
