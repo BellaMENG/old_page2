@@ -129,7 +129,7 @@ Broadly speaking, there are two trends to clustering directed graphs: either we 
 Or we can treat the graphs as directed graphs. There are several types of clustering methods, including spectral clustering, cut-based and random-walk based method. For the cut-based method, a Laplacian matrix for directed graphs were proposed and usually used for the previously mentioned purpose.
 
 [Laplacians and the Cheeger Inequality for Directed Graphs](https://link.springer.com/article/10.1007/s00026-005-0237-z)\
-**Cited by 235, Published in September 2014, Annals of Combinatorics, Author: Fan Chung**
+**Cited by 235, Published in September 2014, Annals of Combinatorics, Author: Fan Chung**\
 [A Random Walks View of Spectral Segmentation (2001)](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.1501)\
 **Cited by 213, Published in 2001, Authors: Marina Meila; Jianbo Shi**
 
@@ -146,9 +146,9 @@ Or we can treat the graphs as directed graphs. There are several types of cluste
 - Ways to improve some of the algorithms is that to incorporate some of Bitcoin's inherent natures to serve as distance or other parameters in the algorithms. At the same time, now we have more ground truth variables, it may help improve the clustering results.
 
 [Deanonymization and linkability of cryptocurrency transactions based on network analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806723)\
-**Cited by 17, Published in: 2019 IEEE European Symposium on Security and Privacy (EuroS&P), Authors: Alex Biryukov; Sergei Tikhomirov**\
+**Cited by 17, Published in: 2019 IEEE European Symposium on Security and Privacy (EuroS&P), Authors: Alex Biryukov; Sergei Tikhomirov**
 [Deanonymisation of clients in Bitcoin P2P network](https://arxiv.org/pdf/1405.7418.pdf)\
-**Cited by 428, Published in November 2014, ACM SIGAC Conference on Computer and Communications Security, Authors: Alex Biryukov; Dimitry Khovratovich; Ivan Pustogarov**\
+**Cited by 428, Published in November 2014, ACM SIGAC Conference on Computer and Communications Security, Authors: Alex Biryukov; Dimitry Khovratovich; Ivan Pustogarov**
 - Both of them mentioned how to trace entry nodes of transactions by tracing the IP address. The first paper mentioned to use a heuristic or intuition that, if a node relays a transaction to the experiment node quickly, it is likely to be the entry node. (My understanding: entry nodes do not need to verify the transaction)
 
 [On spectral clustering: analysis and an algorithm](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) 2001
@@ -162,8 +162,7 @@ TODO:
 - state-of-art methods
 
 [Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods](https://arxiv.org/pdf/1611.03941.pdf)\
-Cited by 60, Published in November 2016, Authors: Thai Pham; Steven Lee\
-
+**Cited by 60, Published in November 2016, Authors: Thai Pham; Steven Lee**\
 [Unsupervised Learning for Robust Bitcoin Fraud Detection](https://digifors.cs.up.ac.za/issa/2016/Proceedings/Full/paper%2074.pdf)\
-Citec by 42, Published in August 2016, Information Security for South Africa, Authors: Patrick Monamo; Vukosi Marivate; Bhekisipho Twala\
+**Citec by 42, Published in August 2016, Information Security for South Africa, Authors: Patrick Monamo; Vukosi Marivate; Bhekisipho Twala**
 
