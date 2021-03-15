@@ -160,3 +160,10 @@ TODO:
 - Implement algorithms: k-means, spectral clustering and DBSCAN
 - If we do k-means, what should the k be??
 - state-of-art methods
+
+[Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods](https://arxiv.org/pdf/1611.03941.pdf)\
+Cited by 60, Published in November 2016, Authors: Thai Pham; Steven Lee\
+
+[Unsupervised Learning for Robust Bitcoin Fraud Detection](https://digifors.cs.up.ac.za/issa/2016/Proceedings/Full/paper%2074.pdf)\
+Citec by 42, Published in August 2016, Information Security for South Africa, Authors: Patrick Monamo; Vukosi Marivate; Bhekisipho Twala\
+
