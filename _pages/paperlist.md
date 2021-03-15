@@ -101,37 +101,37 @@ Number of addresses in the blockchain: 426868262
 Read some paper regarding different clustering algorithms and Bitcoin heuristics and clustering.
 
 [Analysis of the Bitcoin blockchain: socio-economic factors behind the adoption](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0170-8)\
-Cited by 40, Published in October 2018, EDJ Data Sci, Authors: Francesco Parino; Mariano G. Beiró; Laetitia Gauvin\
+**Cited by 40, Published in October 2018, EDJ Data Sci, Authors: Francesco Parino; Mariano G. Beiró; Laetitia Gauvin**\
 This paper is more social science focused. It analysed the correlation between geographical information and the adoption of Bitcoin in thoses locations. The methodology they utilized was to track the IP addresses by joining the Bitcoin network. They then matched the IP addresses to countries. This paper presented some interesting results including the adoption rate in some countries, the scale of transactions in different countries, and other interesting results.
 
 [Mining Information on Bitcoin Network Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8276874)\
-Cited by 11, Published in June 2017, IEEE, Authors: Jiawei Zhu; Peipeng Liu; Longtao He\
+**Cited by 11, Published in June 2017, IEEE, Authors: Jiawei Zhu; Peipeng Liu; Longtao He**\
 This paper simply summarized the number of bitcoin transactions per block, trends transaction amount and some other general easily obtained information about the Bitcoin network. In addition, the researchers also collected IP addresses information by participating into the P2P Bitcoin network.
 
 I revisited some paper including the original Bitcoin paper, BlockSci paper, and several papers explaining and investigating Bitcoin heuristics.
 
 [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)\
-Cited by 1086, Published in March 2016, ACM, Authors: Sarah Meiklejohn; Marjori Pomarole; Grant Jordan; Kirill Levchenko; Damon McCoy; Geoffrey M. Voelker; Stefan Savage\
+**Cited by 1086, Published in March 2016, ACM, Authors: Sarah Meiklejohn; Marjori Pomarole; Grant Jordan; Kirill Levchenko; Damon McCoy; Geoffrey M. Voelker; Stefan Savage**\
 In this paper, the two heuristics were formally defined and implemented: 1) all addresses that appeared in the same transaction as inputs are controled by the same entity; and 2) the change addresses that exist in output of transactions also belong to the same entity as the inputs of the transactions.
 
 [When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencies](https://arxiv.org/abs/1708.04748)\
-Cited by 95, Published in August 2018, Sciendo, Authors: Steven Goldfeder; Harry Kalodner; Dillon Reisman; Arvind Narayanan\
+**Cited by 95, Published in August 2018, Sciendo, Authors: Steven Goldfeder; Harry Kalodner; Dillon Reisman; Arvind Narayanan**\
 To read in detail. In this paper, it mentioned how to detect CoinJoin transactions, which are transactions that will not follow the previously mentioned heuristics. It also investigated in other privacy-related issues with some merchants that take Bitcoin as a payment method.
 
 In the BlockSci paper, it mentioned that we could used spectral clustering techniques to improve the imperfection because of the inherent feature of heuristics and anonymity of Bitcoin.
 
 
 [Clustering and Community Detection in Directed Networks: A Survey](https://arxiv.org/pdf/1308.0971.pdf)\
-Cited by 589, Published in 2013, Physics Reports, Authors: Fragkiskos D. Malliaros; Michalis Vazirgiannis\
+**Cited by 589, Published in 2013, Physics Reports, Authors: Fragkiskos D. Malliaros; Michalis Vazirgiannis**\
 This is a summary of clustering and community detection algorithms in directed graphs.
 Broadly speaking, there are two trends to clustering directed graphs: either we convert the graphs to undirected graphs, or we cluster them as directed graphs. For the Bitcoin transaction graph, it is possible that we can still get good clustering result even if we do not consider the direction of transactions. Because for example, if we are considering bitcoin addresses belong to the same Bitcoin Exchange, their coins always transfer within a short time period to another address after they collected it (to protect privacy and their money collected, according to my understanding).
 
 Or we can treat the graphs as directed graphs. There are several types of clustering methods, including spectral clustering, cut-based and random-walk based method. For the cut-based method, a Laplacian matrix for directed graphs were proposed and usually used for the previously mentioned purpose.
 
 [Laplacians and the Cheeger Inequality for Directed Graphs](https://link.springer.com/article/10.1007/s00026-005-0237-z)\
-Cited by 235, Published in September 2014, Annals of Combinatorics, Author: Fan Chung
+**Cited by 235, Published in September 2014, Annals of Combinatorics, Author: Fan Chung**
 [A Random Walks View of Spectral Segmentation (2001)](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.1501)\
-Cited by 213, Published in 2001, Authors: Marina Meila; Jianbo Shi
+**Cited by 213, Published in 2001, Authors: Marina Meila; Jianbo Shi**
 
 - A few papers tracked the network data by joining the bitcoin network as a p2p node. They can then collect IP addresses and map the IP addresses to geo-locations
 - To do: get the most active user in the graph network and extract the condensed network
@@ -140,15 +140,15 @@ Cited by 213, Published in 2001, Authors: Marina Meila; Jianbo Shi
 
 
 [Deanonymizing Bitcoin Transactions: an Investigative Study on Large-scale Graph Clustering](https://yashpatel5400.github.io/files/deanonymization.pdf)\
-Bachelor Thesis of Yash Patel, 2017
+**Bachelor Thesis of Yash Patel, 2017**
 - In this thesis paper, it mentioned several clustering models that can be used to Bitcoin transaction graph to cluster, including k-means, spectral clustering, and DBSCAN.
 - The problem with the results shown are the following: first, the dataset was relatively old and it didn't specifically mention the scope of its data. According to the code he published GitHub, he used Blocksci tool to obtain and parse the data, which I assume should be up to 2017. Secondly, he mentioned eight heuristics   of clustering Bitcoin addresses, but when applying the clustering algorithms, he didn't utilize any of the heuristics mentioned, but purely applied the algorithms without alternations. Thirdly, all of the clustering methods were evaluated mostly according to the objective scores, which are purity, NMI and F-score
 - Ways to improve some of the algorithms is that to incorporate some of Bitcoin's inherent natures to serve as distance or other parameters in the algorithms. At the same time, now we have more ground truth variables, it may help improve the clustering results.
 
 [Deanonymization and linkability of cryptocurrency transactions based on network analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806723)\
-Cited by 17, Published in: 2019 IEEE European Symposium on Security and Privacy (EuroS&P), Authors: Alex Biryukov; Sergei Tikhomirov\
+**Cited by 17, Published in: 2019 IEEE European Symposium on Security and Privacy (EuroS&P), Authors: Alex Biryukov; Sergei Tikhomirov**\
 [Deanonymisation of clients in Bitcoin P2P network](https://arxiv.org/pdf/1405.7418.pdf)\
-Cited by 428, Published in November 2014, ACM SIGAC Conference on Computer and Communications Security, Authors: Alex Biryukov; Dimitry Khovratovich; Ivan Pustogarov\
+**Cited by 428, Published in November 2014, ACM SIGAC Conference on Computer and Communications Security, Authors: Alex Biryukov; Dimitry Khovratovich; Ivan Pustogarov**\
 - Both of them mentioned how to trace entry nodes of transactions by tracing the IP address. The first paper mentioned to use a heuristic or intuition that, if a node relays a transaction to the experiment node quickly, it is likely to be the entry node. (My understanding: entry nodes do not need to verify the transaction)
 
 [On spectral clustering: analysis and an algorithm](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) 2001
