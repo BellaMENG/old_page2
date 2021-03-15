@@ -158,11 +158,23 @@ TODO:
 - bibliography
 - Extract ground truth tags using Blocksci and process the data to desired format
 - Implement algorithms: k-means, spectral clustering and DBSCAN
-- If we do k-means, what should the k be??
+- If we do k-means, what should the k be?? Evaluate the relationship between the value of k and cluster Entropy
 - state-of-art methods
 
 [Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods](https://arxiv.org/pdf/1611.03941.pdf)\
 **Cited by 60, Published in November 2016, Authors: Thai Pham; Steven Lee**\
-[Unsupervised Learning for Robust Bitcoin Fraud Detection](https://digifors.cs.up.ac.za/issa/2016/Proceedings/Full/paper%2074.pdf)\
-**Citec by 42, Published in August 2016, Information Security for South Africa, Authors: Patrick Monamo; Vukosi Marivate; Bhekisipho Twala**
+This paper used the parsed Bitcoin data. The data was already pre-processed, and clustered from address graph to user graph.\
+They tried three unsupervised learning methods, which are k-means, Mahalanobis distance based method, and unsupervised SVM. They applied the three methods on the user graph as well as the transaction graph.
+For k-means, they evaluated the relationship between value of k and 
 
+[Unsupervised Learning for Robust Bitcoin Fraud Detection](https://digifors.cs.up.ac.za/issa/2016/Proceedings/Full/paper%2074.pdf)\
+**Citec by 42, Published in August 2016, Information Security for South Africa, Authors: Patrick Monamo; Vukosi Marivate; Bhekisipho Twala**\
+[Automatic Bitcoin Address Clutering](http://www.webprime.co.kr/renderfarm/content/downloads/clustering_whitepaper.pdf)\
+**Cited by 62, Published in 2017, IEEE ICMLA, Authors: Dmitry Ermilov; Maxim Panov†; Yury Yanovich**\
+[A Machine Learning-Based Method for Automated Blockchain Transaction Signing Including Personalized Anomaly Detection](https://www.mdpi.com/1424-8220/20/1/147)\
+**Cited by 9, Published in December 2019, Sensors MDPI, Authors: Blaž Podgorelec; Muhamed Turkanović; Sašo Karakatič**\
+[Detecting Illicit Entities in Bitcoin using Supervised Learning of Ensemble Decision Trees](https://dl.acm.org/doi/pdf/10.1145/3418981.3418984)\
+**Published in August 2020, ICICM, Authors: Pranav Nerurkar, Yann Busnel, Romaric Ludinard, Kunjal Shah, Sunil Bhirud, Dhiren Patel**\
+[A New Bitcoin Address Association Method Using a Two-Level Learner Model](https://link.springer.com/chapter/10.1007/978-3-030-38961-1_31)\
+**Cited by 3, Published in ICA3PP 2019, Authors: Tengyu Liu; Jingguo Ge; Yulei Wu; Bowei Dai; Liangxiong Li; Zhongjiang Yao; Jifei Wen; Hongbin Shi**\
+This paper proposed a new method to re-construct the bitcoin address graph by pairing bitcoin addresses to pairs. After that, they perform certain unsupervised clustering algorithm.
