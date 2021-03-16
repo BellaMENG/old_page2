@@ -183,3 +183,7 @@ Uses k-means method and proposed a trimmed k-means method
 [A New Bitcoin Address Association Method Using a Two-Level Learner Model](https://link.springer.com/chapter/10.1007/978-3-030-38961-1_31)\
 **Cited by 3, Published in ICA3PP 2019, Authors: Tengyu Liu; Jingguo Ge; Yulei Wu; Bowei Dai; Liangxiong Li; Zhongjiang Yao; Jifei Wen; Hongbin Shi**\
 This paper proposed a new method to re-construct the bitcoin address graph by pairing bitcoin addresses to pairs. After that, they perform certain unsupervised clustering algorithm.
+
+
+[Information theoretic measures for clusterings comparison: is a correction for chance necessary?](https://jmlr.csail.mit.edu/papers/volume11/vinh10a/vinh10a.pdf)\
+**Cited by 1369, Published in October 2010, Authors: Nguyen Xuan Vinh; Julien Epps; James Bailey**
